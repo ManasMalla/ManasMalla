@@ -25,3 +25,5 @@ which are easy to understand and use!
   - Facebook - https://www.facebook.com/manasmalla.dev 
   - Twitter - https://twitter.com/manas_malla_ 
   - Website 🌐 - https://manasmalla.github.io 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmalla&hide=asp,html&langs_count=10&theme=tokyonight)
