@@ -26,4 +26,4 @@ which are easy to understand and use!
   - Twitter - https://twitter.com/manas_malla_ 
   - Website 🌐 - https://manasmalla.github.io 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmalla&hide=asp,html&langs_count=10&border_radius=32&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmalla&langs_count=10&border_radius=32&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
