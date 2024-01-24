@@ -7,7 +7,7 @@ Welcome to my Repository of my GitHub Repositories which hosts many <b>✨ speci
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmalla&hide=asp&langs_count=5&border_radius=16&layout=compact) ![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasmalla&show_icons=true&border_radius=16)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDGVizag&repo=NowInGoogle)](https://github.com/GDGVizag/NowInGoogle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnanta&repo=autosmith)](https://github.com/TheAnanta/autosmith)
-![](https://github-readme-streak-stats.herokuapp.com/?user=manasmalla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manasmalla&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sreetejadusi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=manasmalla&no-frame=false&no-bg=false&margin-w=4)
